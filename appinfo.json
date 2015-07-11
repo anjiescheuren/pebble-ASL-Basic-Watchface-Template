@@ -22,16 +22,6 @@
                 "type": "font"
             },
             {
-                "file": "fonts/C&C Red Alert [INET].ttf",
-                "name": "RED_ALERT_BOLD_14",
-                "type": "font"
-            },
-            {
-                "file": "fonts/C&C Red Alert [INET].ttf",
-                "name": "RED_ALERT_BOLD_32",
-                "type": "font"
-            },
-            {
                 "file": "images/asl_resized_mono.png",
                 "name": "SPARK_ICON",
                 "type": "png"
